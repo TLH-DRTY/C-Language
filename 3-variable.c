@@ -5,6 +5,7 @@
  int c;
  float f;
 */
+
 int main () {
 
    /* variable definition:  local-- */
